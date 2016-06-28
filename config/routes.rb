@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   root 'grams#index'
+  resources :grams, only: [:new]
 
 
   # The priority is based upon order of creation: first created -> highest priority.
