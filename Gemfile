@@ -34,6 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'rails_12factor', group: :production
 gem 'web-console', group: :development
+gem 'slim-rails'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
