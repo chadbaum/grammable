@@ -36,6 +36,7 @@ gem 'rails_12factor', group: :production
 gem 'web-console', group: :development
 gem 'slim-rails'
 gem 'bootstrap-sass'
+gem 'simple_form'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
