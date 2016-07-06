@@ -38,6 +38,9 @@ gem 'slim-rails'
 gem 'bootstrap-sass'
 gem 'simple_form'
 gem 'devise'
+gem 'carrierwave'
+gem 'figaro'
+gem 'fog'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
