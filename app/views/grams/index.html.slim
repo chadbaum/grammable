@@ -5,8 +5,7 @@
         = gram.user.email
       = image_tag gram.picture, class: 'img-responsive'
       p
-        = gram.message
-        
+        = gram.message      
       .gram-actions.pull-right
         - if current_user && current_user == gram.user
           = link_to 'Edit', edit_gram_path(gram)
