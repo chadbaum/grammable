@@ -2,7 +2,7 @@
 Grammable
 =========
 
-Grammable is a platform built on Ruby on Rails 4.0 to allow users to post pictures and comment on other pictures.  The front-end is built with Twitter Bootstrap 3.  The application was built entirely with a TDD approach, requiring building controller tests first, and then employing the red-green-refactor process to develop the application from start to finish.  
+Grammable is an application built on Ruby on Rails 4.0 to allow users to post pictures and comment on other pictures.  The front-end is built with Twitter Bootstrap 3.  The application was built entirely with a TDD approach, requiring building controller tests first, and then employing the red-green-refactor process to develop the application from start to finish.  
 
 Dependencies
 ============
